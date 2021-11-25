@@ -22,6 +22,8 @@
 
 12=>ini_set('memory_limit','1024'); //set max memory limit
 
-13=>is_numeric(); //filter only number;
+13=>is_numeric(); //filter only number.
 
-14=>get_defined_vars(); //get all defined var
+14=>get_defined_vars(); //get all defined var.
+
+15=>is_string(); //get only string.
