@@ -27,3 +27,5 @@
 14=>get_defined_vars(); //get all defined var.
 
 15=>is_string(); //get only string.
+
+16=>die(); //hide all data;
