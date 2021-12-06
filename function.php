@@ -29,3 +29,7 @@
 15=>is_string(); //get only string.
 
 16=>die(); //hide all data;
+
+17=>fsockopen("www.example.com", 80); //check internet connection or chect custom website active or not;
+
+18=>http_response_code(403); //Get website header response code;
